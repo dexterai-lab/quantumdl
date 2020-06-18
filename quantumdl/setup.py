@@ -8,7 +8,7 @@ setup(
   author = 'Debabrata Roy Chowdhury',                   # Type in your name
   author_email = 'debabrata.rc@dexterai.com',      # Type in your E-Mail
   url = 'https://github.com/dexterai-lab/quantumdl',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/dexterai-lab/quantumdl/archive/v0.1-alpha.tar.gz',    # I explain this later on
   keywords = ['QUANTUM COMPUTING', 'DEEP LEARNING', 'PYTHON'],   # Keywords that define your package best
   python_requires=('>=3.6.0'),
   install_requires=[            # I get to this in a second
