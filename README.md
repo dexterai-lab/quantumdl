@@ -1,2 +1,2 @@
 # quantumdl
-Quantum Deep Learning Library
+A Quantum Deep Learning Library.
