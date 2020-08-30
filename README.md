@@ -1,5 +1,7 @@
 # Quantum Deep Learning
 
+***STILL IN DEVELOPMENT***
+
 Quantumdl is a Python library to build Deep Learning models on Quantum Computers.
 
 ## Installation
